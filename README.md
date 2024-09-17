@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Mumtaz Ali</h1>
 <h3 align="center">Emerging Web Developer | Expertise in Python, Django Framework & Database Management</h3>
+
+
+
+
+
 <div align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme">
@@ -11,11 +16,14 @@
   <a href="https://discord.gg/R5hmv5Te">
     <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
   </a>
-  <p align="left">
-    <a href="https://twitter.com/mali_yzi" target="blank">
-      <img src="https://img.shields.io/twitter/follow/mali_yzi?logo=twitter&style=for-the-badge" alt="mali_yzi"/>
-    </a>
-  </p>
+  
+  <a href="https://twitter.com/mali_yzi" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mali_yzi?logo=twitter&style=for-the-badge" alt="mali_yzi"/>
+  </a>
+  <a href="https://github.com/engrmumtazali0112">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=engrmumtazali0112" alt="Profile Views"/>
+  </a>
+
 </div>
 
 
