@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mumtaz Ali</h1>
 <h3 align="center">Emerging Web Developer | Expertise in Python, Django Framework & Database Management</h3>
+<div align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
+  </a>
+  <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://discord.gg/R5hmv5Te">
+    <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
+  </a>
+  <p align="left">
+    <a href="https://twitter.com/mali_yzi" target="blank">
+      <img src="https://img.shields.io/twitter/follow/mali_yzi?logo=twitter&style=for-the-badge" alt="mali_yzi"/>
+    </a>
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmumtazali0112&label=Profile%20views&color=0e75b6&style=flat" alt="engrmumtazali0112" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engrmumtazali0112" alt="engrmumtazali0112" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mali_yzi" target="blank"><img src="https://img.shields.io/twitter/follow/mali_yzi?logo=twitter&style=for-the-badge" alt="mali_yzi" /></a> </p>
 
 - 🔭 I’m currently working on [Online Learning Plate form](https://github.com/engrmumtazali0112/Study-Hub-Django)
 
