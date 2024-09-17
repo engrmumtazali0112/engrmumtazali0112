@@ -2,43 +2,46 @@
 <h1 align="center">Hi 👋, I'm Mumtaz Ali</h1>
 <h3 align="center">Emerging Web Developer | Expertise in Python, Django Framework & Database Management</h3>
 
-
-
-
-
 <div align="center">
-  
-  <a href="https://github.com/engrmumtazali0112">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GitHub&color=%230076D6&style=flat&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a>
+ 
+   
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://discord.gg/R5hmv5Te">
     <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
   </a>
 
-  <img src="https://img.shields.io/github/followers/engrmumtazali0112?label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/engrmumtazali0112?label=Stars" alt="Stars"/>
- 
+  <img src="https://komarev.com/ghpvc/?username=engrmumtazali0112&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/engrmumtazali0112?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/engrmumtazali0112?label=Stars&style=social" alt="Stars"/>
+
+  <img src="https://img.shields.io/github/watchers/engrmumtazali0112/engrmumtazali0112?label=Watchers&style=social" alt="Watchers"/>
   <img src="https://img.shields.io/github/commit-activity/m/engrmumtazali0112/engrmumtazali0112?label=Commits" alt="Commit Activity"/>
-  <br>
+  <img src="https://img.shields.io/github/last-commit/engrmumtazali0112/engrmumtazali0112?label=Last%20Commit" alt="Last Commit"/>
+
   <img src="https://img.shields.io/github/issues/engrmumtazali0112/engrmumtazali0112?label=Issues" alt="Issues"/>
   <img src="https://img.shields.io/github/issues-closed/engrmumtazali0112/engrmumtazali0112?label=Closed%20Issues" alt="Closed Issues"/>
   <img src="https://img.shields.io/github/issues-pr/engrmumtazali0112/engrmumtazali0112?label=Pull%20Requests" alt="Pull Requests"/>
   <img src="https://img.shields.io/github/issues-pr-closed/engrmumtazali0112/engrmumtazali0112?label=Closed%20PRs" alt="Closed PRs"/>
-  <br>
+ 
   <img src="https://img.shields.io/github/discussions/engrmumtazali0112/engrmumtazali0112?label=Discussions" alt="Discussions"/>
   <img src="https://img.shields.io/github/milestones/all/engrmumtazali0112/engrmumtazali0112?label=Milestones" alt="Milestones"/>
-  <img src="https://img.shields.io/github/forks/engrmumtazali0112/engrmumtazali0112?label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/forks/engrmumtazali0112/engrmumtazali0112?label=Forks&style=social" alt="Forks"/>
   <img src="https://img.shields.io/github/contributors/engrmumtazali0112/engrmumtazali0112?label=Contributors" alt="Contributors"/>
+  
+  <img src="https://img.shields.io/github/repo-size/engrmumtazali0112/engrmumtazali0112?label=Repo%20Size" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/languages/count/engrmumtazali0112/engrmumtazali0112?label=Languages" alt="Languages"/>
+  <img src="https://img.shields.io/github/license/engrmumtazali0112/engrmumtazali0112?label=License" alt="License"/>
+  <a href="https://github.com/engrmumtazali0112/engrmumtazali0112/raw/main/Resumi%20(1).pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
+  </a>
 </div>
   
   <a href="https://twitter.com/mali_yzi" target="blank">
     <img src="https://img.shields.io/twitter/follow/mali_yzi?logo=twitter&style=for-the-badge" alt="mali_yzi"/>
   </a>
-  <a href="https://github.com/engrmumtazali0112">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=engrmumtazali0112" alt="Profile Views"/>
-  </a>
+  
 
-</div>
+
 
 
 
@@ -100,7 +103,7 @@
 - 📄 Know about my experiences [I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.](I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.)
 
 
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
