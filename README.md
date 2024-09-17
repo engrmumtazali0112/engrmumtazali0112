@@ -31,9 +31,22 @@
   <img src="https://img.shields.io/github/repo-size/engrmumtazali0112/engrmumtazali0112?label=Repo%20Size" alt="Repo Size"/>
   <img src="https://img.shields.io/github/languages/count/engrmumtazali0112/engrmumtazali0112?label=Languages" alt="Languages"/>
   <img src="https://img.shields.io/github/license/engrmumtazali0112/engrmumtazali0112?label=License" alt="License"/>
-  <a href="https://github.com/engrmumtazali0112/engrmumtazali0112/raw/main/Resumi%20(1).pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
+  <div align="center">
+  <!-- Previous badges here... -->
+
+  <!-- New Repositories badge -->
+  <a href="https://github.com/engrmumtazali0112?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-green?style=for-the-badge&logo=github" alt="View All Repositories"/>
   </a>
+
+ <a href="https://github.com/engrmumtazali0112/portfolio/raw/main/resume.pdf" download>
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=github" alt="Resume"/>
+</a>
+
+
+
+  <!-- Rest of the badges... -->
+</div>
 </div>
   
   <a href="https://twitter.com/mali_yzi" target="blank">
