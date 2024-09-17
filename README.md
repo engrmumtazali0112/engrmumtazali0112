@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python web development, user authentication, and database management**
 
-- 📫 How to reach me **LinkedIn Profile, GitHub, Email: engrmumtazali01@gmail.com, WhatsApp: +92 3476338292.**
+- 📫 How to reach me ** [LinkedIn]([url](https://www.linkedin.com/in/mumtazali12/)) Profile, GitHub, Email: engrmumtazali01@gmail.com, WhatsApp: +92 3476338292.**
 
 - 📄 Know about my experiences [I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.](I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.)
 
