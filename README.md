@@ -37,9 +37,9 @@
     <img src="https://img.shields.io/badge/Repositories-View%20All-green?style=for-the-badge&logo=github" alt="View All Repositories"/>
   </a>
 
- <a href="https://github.com/engrmumtazali0112/portfolio/raw/main/resume.pdf" download>
-  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=github" alt="Resume"/>
-</a>
+
+  
+
 
 
 
