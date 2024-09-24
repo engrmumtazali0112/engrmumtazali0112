@@ -17,18 +17,11 @@
   <img src="https://img.shields.io/github/last-commit/engrmumtazali0112/engrmumtazali0112?label=Last%20Commit" alt="Last Commit"/>
 
   <img src="https://img.shields.io/github/issues/engrmumtazali0112/engrmumtazali0112?label=Issues" alt="Issues"/>
-  <img src="https://img.shields.io/github/issues-closed/engrmumtazali0112/engrmumtazali0112?label=Closed%20Issues" alt="Closed Issues"/>
-  <img src="https://img.shields.io/github/issues-pr/engrmumtazali0112/engrmumtazali0112?label=Pull%20Requests" alt="Pull Requests"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/engrmumtazali0112/engrmumtazali0112?label=Closed%20PRs" alt="Closed PRs"/>
  
-  <img src="https://img.shields.io/github/discussions/engrmumtazali0112/engrmumtazali0112?label=Discussions" alt="Discussions"/>
-  <img src="https://img.shields.io/github/milestones/all/engrmumtazali0112/engrmumtazali0112?label=Milestones" alt="Milestones"/>
   <img src="https://img.shields.io/github/forks/engrmumtazali0112/engrmumtazali0112?label=Forks&style=social" alt="Forks"/>
   <img src="https://img.shields.io/github/contributors/engrmumtazali0112/engrmumtazali0112?label=Contributors" alt="Contributors"/>
   
-  <img src="https://img.shields.io/github/repo-size/engrmumtazali0112/engrmumtazali0112?label=Repo%20Size" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/languages/count/engrmumtazali0112/engrmumtazali0112?label=Languages" alt="Languages"/>
-  <img src="https://img.shields.io/github/license/engrmumtazali0112/engrmumtazali0112?label=License" alt="License"/>
+  
   <div align="center">
   <!-- Previous badges here... -->
 
