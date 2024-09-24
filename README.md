@@ -115,11 +115,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrmumtazali0112&show_icons=true&locale=en&layout=compact" alt="engrmumtazali0112" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrmumtazali0112&show_icons=true&locale=en" alt="engrmumtazali0112" /></p>
+
 
 </div>
 <a href="https://github.com/engrmumtazali0112">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engrmumtazali0112&theme=dracula" alt="Profile Summary"/>
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrmumtazali0112&" alt="engrmumtazali0112" /></p>
+
