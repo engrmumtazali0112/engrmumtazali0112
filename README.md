@@ -3,8 +3,8 @@
 <h3 align="center">Emerging Web Developer | Expertise in Python, Django Framework & Database Management</h3>
 
 <div align="center">
- 
-  
+      
+   <a>
     <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
   </a>
 
