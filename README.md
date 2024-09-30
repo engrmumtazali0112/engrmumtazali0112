@@ -104,7 +104,8 @@
 
 
 
-- 📄 Know about my experiences [I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.](I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.)
+- 📄 Know about my experiences
+- (I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.)
 
 
 
