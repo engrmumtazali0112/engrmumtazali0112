@@ -31,11 +31,6 @@
   </a>
 
 
-  
-
-
-
-
   <!-- Rest of the badges... -->
 </div>
 </div>
@@ -65,48 +60,70 @@
 
 - 💬 Ask me about **Python web development, user authentication, and database management**
 
-- 📫 How to reach me:  
+## 📫 Connect with Me
+
 <p align="left">
-  <a href="https://wa.me/923476338292" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  <!-- Professional Networks -->
+  <a href="https://linkedin.com/in/mumtazali12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/engrmumtazali0112/engrmumtazali0112/tree/main" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/mali_yzi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mali_yzi" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mumtazali12" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mumtazali12" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mumtaz ali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mumtaz ali" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/its_maliyzi?igsh=mwr1y2x1a2xpazbpoa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_maliyzi" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.hackerrank.com/engrmumtazali01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engrmumtazali01" height="30" width="40" />
-    <a href="https://join.skype.com/invite/rxDq4gBgCzAI" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" height="30" width="40" />
-</a>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
 
-  
+  <!-- Messaging & Communication -->
+  <a href="https://wa.me/923476338292" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://join.skype.com/invite/rxDq4gBgCzAI" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
+  </a>
+
+  <!-- Social Media -->
+  <a href="https://twitter.com/mali_yzi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/mumtaz ali" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/its_maliyzi?igsh=mwr1y2x1a2xpazbpoa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
- - Gmail: [engrmumtazali01@gmail.com](mailto:engrmumtazali01@gmail.com)
   
-  - Upwork: [Upwork Profile](https://www.upwork.com/nx/find-work/best-matches)
-    
-  - Fiverr: [Fiverr Profile](https://www.fiverr.com/engrmumtazali01?up_rollout=true)
-  - 📄 Resume: [Download Resume](https://raw.githubusercontent.com/engrmumtazali0112/engrmumtazali0112/main/Resumi.pdf)
 
 
+ 
+ <div align="left">
+  
+📧 Email: <a href="mailto:engrmumtazali01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
+💼 Upwork: <a href="https://www.upwork.com/nx/find-work/best-matches" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile">
+</a>
+
+🌟 Fiverr: <a href="https://www.fiverr.com/engrmumtazali01?up_rollout=true" target="_blank">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Profile">
+</a>
+
+📄 Resume: <a href="https://raw.githubusercontent.com/engrmumtazali0112/engrmumtazali0112/main/Resumi.pdf" download="Mumtaz_Ali_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Resume">
+</a>
+
+</div>
 
 
 - 📄 Know about my experiences
-- (I have 2-3 years of experience in web development using Python, Django, Flask, RESTful APIs, and database management.)
+- (I am a skilled web developer with 2-3 years of experience in Python, RESTful APIs, user authentication, and database management, focusing on 
+building responsive web applications with Django and Flask. Additionally, I have expertise in computer vision and deep learning, demonstrated in 
+real-time object detection and AI-driven personality prediction projects. My technical background also includes implementing secure network 
+infrastructure with VLAN segmentation and inter-VLAN routing for enterprise solution)
 
 
 
