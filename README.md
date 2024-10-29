@@ -99,6 +99,7 @@
   - Upwork: [Upwork Profile](https://www.upwork.com/nx/find-work/best-matches)
     
   - Fiverr: [Fiverr Profile](https://www.fiverr.com/engrmumtazali01?up_rollout=true)
+  - 📄 Resume: [Download Resume](https://github.com/engrmumtazali0112/engrmumtazali0112/blob/main/Resumi.pdf)
 
 
 
