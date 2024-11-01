@@ -46,7 +46,7 @@
 
 
 
-- 🔭 I’m currently working on [Online Learning Plate form](https://github.com/engrmumtazali0112/Study-Hub-Django)
+- 🔭 I’m currently working on [Gesture Recognition System](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/tree/main/Gesture%20Recognition%20System%20%7C%20AI-Powered%20Hand%20Gesture%20Detection%20with%20CNN%20and%20OpenCV)
 
 - 🌱 I’m currently learning **Frontend frameworks and improving my responsive design skills with Bootstrap and Sass.**
 
