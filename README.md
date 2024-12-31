@@ -34,10 +34,7 @@
   <!-- Rest of the badges... -->
 </div>
 </div>
-  
-  <a href="https://twitter.com/mali_yzi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mali_yzi?logo=twitter&style=for-the-badge" alt="mali_yzi"/>
-  </a>
+</a> <a href="https://x.com/engrmumtazali01?s=21" target="blank"> <img src="https://img.shields.io/twitter/follow/engrmumtazali01?logo=twitter&style=for-the-badge" alt="engrmumtazali01"/>
   
 
 
@@ -116,7 +113,7 @@
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Resume">
 </a>
 
-</div>
+🌐 **Portfolio**: <a href="https://portfolio-mmpligbk9-engrmumtazali0112s-projects.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> 
 
 
 - 📄 Know about my experiences
