@@ -109,7 +109,7 @@
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Profile">
 </a>
 
-📄 Resume: <a href="https://raw.githubusercontent.com/engrmumtazali0112/engrmumtazali0112/main/Resumi.pdf" download="Mumtaz_Ali_Resume.pdf" target="_blank">
+📄 Resume: <a href="https://raw.githubusercontent.com/engrmumtazali0112/engrmumtazali0112/main/Resume.pdf" download="Mumtaz_Ali_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Resume">
 </a>
 
