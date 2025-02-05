@@ -109,9 +109,14 @@
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Profile">
 </a>
 
-📄 Resume: <a href="https://raw.githubusercontent.com/engrmumtazali0112/engrmumtazali0112/main/Resume.pdf" download="Mumtaz_Ali_Resume.pdf" target="_blank">
+📄 Resume: <a href="https://github.com/engrmumtazali0112/engrmumtazali0112/blob/main/Resumi.pdf" download="Mumtaz_Ali_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Resume">
 </a>
+
+📄 Transcript: <a href="https://github.com/engrmumtazali0112/engrmumtazali0112/blob/main/Transcript.pdf" download="Mumtaz_Ali_Transcript.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Transcript-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Transcript">
+</a>
+
 
 🌐 **Portfolio**: <a href="https://portfolio-mmpligbk9-engrmumtazali0112s-projects.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> 
 
