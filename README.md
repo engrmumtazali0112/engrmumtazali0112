@@ -43,7 +43,7 @@
 
 
 
-- 🔭 I’m currently working on [AI Voice And Chat Assistant](https://github.com/engrmumtazali0112/Codex-Cue_Internship/tree/main/voice-chat-assistant)
+- 🔭 I’m currently working on my [FYP-Hostel-Management-System](https://github.com/engrmumtazali0112/FYP-Hostel-Management-System)
 
 - 🌱 I’m currently learning **Frontend frameworks and improving my responsive design skills with Bootstrap and Sass.**
 
