@@ -39,11 +39,7 @@
 
 
 
-
-
-
-
-- 🔭 I’m currently working on my [FYP-Hostel-Management-System](https://github.com/engrmumtazali0112/FYP-Hostel-Management-System)
+- 🔭 I’m currently working on my [FYP-Hostel-Management-System](https://github.com/engrmumtazali0112/SmartHostelManagmentSystem_FYP)
 
 - 🌱 I’m currently learning **Frontend frameworks and improving my responsive design skills with Bootstrap and Sass.**
 
