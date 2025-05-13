@@ -140,163 +140,27 @@ infrastructure with VLAN segmentation and inter-VLAN routing for enterprise solu
 </a>
 
 
-<!-- GitHub Profile - Framework Stats Widget -->
+# Framework Usage Overview
 
-## 🛠️ Frameworks & Technologies
+This repository uses several frameworks to build the application. Below is a live summary of the frameworks used across multiple repositories:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engrmumtazali0112&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
+## Framework Usage Stats
 
-<!-- Framework Usage Stats -->
-<div align="center">
-  <h3>📊 Most Used Frameworks</h3>
-  <div style="width: 70%; margin: 0 auto;">
-    <!-- Framework Usage Bar -->
-    <div style="background-color: #f1f1f1; border-radius: 8px; height: 25px; margin-bottom: 15px; overflow: hidden;">
-      <div style="display: flex; height: 100%; width: 100%;">
-        <div style="width: 35%; background-color: #FF6B6B;" title="Django: 35%"></div>
-        <div style="width: 20%; background-color: #4ECDC4;" title="Flask: 20%"></div> 
-        <div style="width: 15%; background-color: #56BBF1;" title="Bootstrap: 15%"></div>
-        <div style="width: 10%; background-color: #7F5DF0;" title="React: 10%"></div>
-        <div style="width: 10%; background-color: #FFA400;" title="TensorFlow: 10%"></div>
-        <div style="width: 10%; background-color: #25CCF7;" title="Other: 10%"></div>
-      </div>
-    </div>
-    
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FF6B6B', 'pie2': '#4ECDC4', 'pie3': '#56BBF1', 'pie4': '#7F5DF0', 'pie5': '#FFA400', 'pie6': '#25CCF7'}}}%%
-pie
-    title Framework Distribution
-    "Django" : 35
-    "Flask" : 20
-    "Bootstrap" : 15
-    "React" : 10
-    "TensorFlow" : 10
-    "Other" : 10
-```
+| Framework        | Usage %        |
+|------------------|----------------|
+| React.js         | ![React.js](https://img.shields.io/badge/React.js-40%25-blue) |
+| Node.js          | ![Node.js](https://img.shields.io/badge/Node.js-25%25-green) |
+| Express.js       | ![Express.js](https://img.shields.io/badge/Express.js-10%25-yellow) |
+| MongoDB          | ![MongoDB](https://img.shields.io/badge/MongoDB-5%25-red) |
+| Django           | ![Django](https://img.shields.io/badge/Django-20%25-purple) |
 
-  <!-- Framework Legend -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
-    <div>
-      <span style="display: inline-block; width: 15px; height: 15px; background-color: #FF6B6B; border-radius: 3px; margin-right: 5px;"></span>
-      <span>Django 35.0%</span>
-    </div>
-    <div>
-      <span style="display: inline-block; width: 15px; height: 15px; background-color: #4ECDC4; border-radius: 3px; margin-right: 5px;"></span>
-      <span>Flask 20.0%</span>
-    </div>
-    <div>
-      <span style="display: inline-block; width: 15px; height: 15px; background-color: #56BBF1; border-radius: 3px; margin-right: 5px;"></span>
-      <span>Bootstrap 15.0%</span>
-    </div>
-    <div>
-      <span style="display: inline-block; width: 15px; height: 15px; background-color: #7F5DF0; border-radius: 3px; margin-right: 5px;"></span>
-      <span>React 10.0%</span>
-    </div>
-    <div>
-      <span style="display: inline-block; width: 15px; height: 15px; background-color: #FFA400; border-radius: 3px; margin-right: 5px;"></span>
-      <span>TensorFlow 10.0%</span>
-    </div>
-    <div>
-      <span style="display: inline-block; width: 15px; height: 15px; background-color: #25CCF7; border-radius: 3px; margin-right: 5px;"></span>
-      <span>Other 10.0%</span>
-    </div>
-  </div>
-  </div>
-</div>
+### Framework Usage
 
-<!-- Database Experience -->
-<h3 align="center">💾 Database Experience</h3>
-<div align="center">
-  
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#3498db', 'pie2': '#2ecc71', 'pie3': '#e74c3c', 'pie4': '#f1c40f', 'pie5': '#9b59b6'}}}%%
-pie
-    title Database Usage
-    "MongoDB" : 35
-    "MySQL" : 30
-    "PostgreSQL" : 20
-    "SQLite" : 10
-    "MS SQL" : 5
-```
+The following frameworks are used within this project:
 
-</div>
-
-<!-- Framework Skills by Experience Level -->
-<h3 align="center">🌟 Framework Expertise</h3>
-
-<table align="center">
-  <tr>
-    <th>Framework</th>
-    <th>Experience Level</th>
-    <th>Projects</th>
-  </tr>
-  <tr>
-    <td>Django</td>
-    <td>
-      <img src="https://progress-bar.dev/90/" alt="Django: 90%" />
-    </td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>Flask</td>
-    <td>
-      <img src="https://progress-bar.dev/85/" alt="Flask: 85%" />
-    </td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>Bootstrap</td>
-    <td>
-      <img src="https://progress-bar.dev/80/" alt="Bootstrap: 80%" />
-    </td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td>
-      <img src="https://progress-bar.dev/65/" alt="React: 65%" />
-    </td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>TensorFlow</td>
-    <td>
-      <img src="https://progress-bar.dev/60/" alt="TensorFlow: 60%" />
-    </td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>Express.js</td>
-    <td>
-      <img src="https://progress-bar.dev/50/" alt="Express.js: 50%" />
-    </td>
-    <td>2</td>
-  </tr>
-</table>
-
-<!-- Framework Weekly Development Activity -->
-<h3 align="center">📅 Weekly Framework Development Activity</h3>
-
-```mermaid
-%%{init: {'theme': 'base'}}%%
-gantt
-    title Weekly Framework Activity
-    dateFormat  YYYY-MM-DD
-    axisFormat %d
-    
-    section Django
-    Project 1         :a1, 2025-05-05, 3d
-    Project 2         :a2, 2025-05-08, 2d
-    
-    section Flask
-    API Development   :a3, 2025-05-06, 3d
-    
-    section React
-    UI Components     :a4, 2025-05-07, 2d
-    
-    section Bootstrap
-    Styling           :a5, 2025-05-09, 1d
-```
+- **React.js**: Frontend UI
+- **Node.js**: Backend server
+- **Express.js**: API framework
+- **MongoDB**: Database
+- **Django**: Web framework (Backend)
 
