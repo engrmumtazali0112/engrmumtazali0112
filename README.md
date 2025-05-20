@@ -116,6 +116,8 @@
 
 🌐 **Portfolio**: <a href="https://portfolio-mmpligbk9-engrmumtazali0112s-projects.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> 
 
+🌐 **HackerRank Certificate**: <a href="https://www.hackerrank.com/certificates/9e1d0298a48a" target="blank"> <img src="https://img.shields.io/badge/HackerRank-Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"> </a>
+
 
 - 📄 Know about my experiences
 - (I am a skilled web developer with 2-3 years of experience in Python, RESTful APIs, user authentication, and database management, focusing on 
