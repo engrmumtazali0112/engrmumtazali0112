@@ -120,11 +120,13 @@
 
 
 - 📄 Know about my experiences
-- (I am a skilled web developer with 2-3 years of experience in Python, RESTful APIs, user authentication, and database management, focusing on 
-building responsive web applications with Django and Flask. Additionally, I have expertise in computer vision and deep learning, demonstrated in 
-real-time object detection and AI-driven personality prediction projects. My technical background also includes implementing secure network 
-infrastructure with VLAN segmentation and inter-VLAN routing for enterprise solution)
+- I am a skilled full-stack web developer with 2–3 years of hands-on experience in Python, RESTful API development, user authentication, and database management. My core strengths lie in building scalable and responsive web applications using Django, Flask, and FastAPI.
 
+I’ve delivered robust backend systems and intuitive user interfaces, integrating PostgreSQL, MySQL, and SQLite databases. My work extends to secure enterprise networking, including VLAN segmentation and inter-VLAN routing.
+
+In addition to backend development, I have significant experience in computer vision and deep learning. My projects include real-time object detection, gesture recognition, and AI-driven personality prediction systems—demonstrating my ability to fuse AI with practical applications.
+
+I’ve also led full-stack projects like a Hostel Management System, an E-commerce platform, and a Quiz Game App, leveraging Django and FastAPI with modern front-end frameworks like React.js.
 
 
 
