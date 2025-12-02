@@ -33,7 +33,7 @@ I'm passionate about creating innovative solutions that combine modern web techn
 
 ## 🔭 Current Projects
 
-- 🏢 **[Hostel Management System](https://github.com/engrmumtazali0112/SmartHostelManagmentSystem_FYP)** - FYP project featuring comprehensive hostel management with Django
+- 🏢 **[University Management System](https://github.com/engrmumtazali0112/SmartHostelManagmentSystem_FYP)** - FYP project featuring comprehensive hostel management with Django
 - 🛒 **E-Commerce Platform** - Full-stack e-commerce solution with payment gateway integration
 - 🎮 **Quiz Game App** - Interactive quiz application using FastAPI and React.js
 - 🤖 **AI-Driven Personality Prediction** - Machine learning model for personality analysis
